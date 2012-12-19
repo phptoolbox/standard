@@ -1,0 +1,17 @@
+{
+    "name": "toolbox/standard",
+    "description": "PHP Toolbox Standard Edition",
+    "authors": [
+        {
+            "name": "Anthonius Munthi",
+            "email": "me@itstoni.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "toolbox/core": "@dev"
+    },
+    "config": {
+        "bin-dir": "bin"
+    }
+}
