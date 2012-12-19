@@ -14,5 +14,11 @@
     },
     "config": {
         "bin-dir": "bin"
+    },
+    "autoload": {
+        "psr-0": {
+            "dayax\\core": "/project/dayax/dev/src",
+            "toolbox\\core": "/project/toolbox/dev/src"
+        }
     }
 }
