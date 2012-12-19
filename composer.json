@@ -7,6 +7,7 @@
             "email": "me@itstoni.com"
         }
     ],
+    "license": "MIT",
     "minimum-stability": "dev",
     "require": {
         "toolbox/core": "@dev"
